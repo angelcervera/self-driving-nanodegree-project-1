@@ -54,3 +54,18 @@ A browser window will appear showing the contents of the current directory.  Cli
 ## How to write a README
 A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
 
+
+
+## Notes:
+- Extrapolation:
+   - https://en.wikipedia.org/wiki/Extrapolation
+   - https://medium.com/@esmat.anis/robust-extrapolation-of-lines-in-video-using-linear-hough-transform-edd39d642ddf
+   - https://peteris.rocks/blog/extrapolate-lines-with-numpy-polyfit/
+  
+
+- NumPy polynomial fit:
+  - [Current recommended implementation](https://numpy.org/doc/stable/reference/generated/numpy.polynomial.polynomial.Polynomial.fit.html#numpy.polynomial.polynomial.Polynomial.fit)
+  - [Old implementation but better description](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html) 
+- [NumPy poly1d](https://numpy.org/doc/stable/reference/generated/numpy.poly1d.html)
+
+
